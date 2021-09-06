@@ -1,0 +1,44 @@
+body {margin: 0;padding:0;font-family:'Arial';
+background:#3498db;}
+
+.wrap {
+width:360px;
+margin:auto;
+margin-top: 130px;
+padding: 20px;
+background: #fff;
+border-radius: 20px;
+border: 1px solid silver;
+}
+img.tengah {display: block;margin-left: auto;
+margin-right: auto;
+}
+.wrap h2{
+font-size: 16px;
+text-align: center; margin-bottom: 8px;
+}
+.wrap input {
+width:350px;
+height:15px;
+margin-bottom: 10px;
+border-radius: 10px;
+border:1px solid silver;
+padding: 5px;
+}
+
+.wrap .btn-login{padding: 5px; width:100px;
+height: 30px;
+background-color: #3498db;
+color: #fff;
+border-radius: 10px;
+border: 0;
+font-size: 12px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.btn-login:hover{
+	background-color: red;
+}
+
